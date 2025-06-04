@@ -18,7 +18,7 @@ Calculadora web simple para área de figuras geométricas, ángulos de triángul
 
 Puedes ejecutar esta aplicación de forma muy sencilla en tu navegador siguiendo estos pasos:
 
-## Paso 1: Ejecutar localmente
+**Paso 1: Ejecutar localmente**
 
 1. **Descarga o clona** este repositorio:
    ```bash
@@ -26,7 +26,7 @@ Puedes ejecutar esta aplicación de forma muy sencilla en tu navegador siguiendo
 2. Abre el archivo Trigonometric-CalcWeb.html con doble clic o arrástralo a tu navegador.
 3. La calculadora se abrirá en tu navegador con una interfaz amigable y organizada por secciones.
 
-## Paso 2: Usar cada funcionalidad
+**Paso 2: Usar cada funcionalidad**
 
 ## 📐 Área de Figura Geométrica
 En la sección Área de Figura Geométrica, selecciona una figura del menú desplegable:
